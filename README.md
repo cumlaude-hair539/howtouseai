@@ -59,6 +59,7 @@ If you want a practical starting point, begin here:
 - [Path 5: I Only Have a Phone](./guides/path-5-phone-only.md)
 - [First Project: Start Small and Finish Something](./guides/first-project.md)
 - [How to Choose a Stack](./guides/how-to-choose-a-stack.md)
+- [API Basics and API Stacks](./guides/api-basics-and-api-stacks.md)
 - [Prompting Basics: How to Ask Your AI Coding Agent Correctly](./guides/prompting-basics.md)
 - [Workflow Rules: How to Work With an AI Coding Agent Without Creating Chaos](./guides/workflow-rules.md)
 - [AI Agent Rules: How Your Coding Agent Should Behave Inside Your Repository](./guides/ai-agent-rules.md)

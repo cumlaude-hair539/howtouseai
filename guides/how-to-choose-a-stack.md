@@ -633,3 +633,7 @@ At a high level:
 You do not need deep technical mastery to choose well.
 
 You need a strong abstract model of what each piece is for.
+
+If you want the next layer for backend communication and API choices, continue here:
+
+- [API Basics and API Stacks](./api-basics-and-api-stacks.md)
