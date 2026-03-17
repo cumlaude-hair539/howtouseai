@@ -17,6 +17,10 @@ The goal is to turn the repository into a clear, beginner-friendly knowledge bas
 
 ## Current Tracks
 
+### Project Context
+
+- [Why This Exists](./why-this-exists.md)
+
 ### Getting Started
 
 - [How to Start with AI Coding](./how-to-start-with-ai-coding.md)

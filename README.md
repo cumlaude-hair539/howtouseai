@@ -46,6 +46,7 @@ Topics include:
 If you want the structured guide index for the whole repository, start here:
 
 - [Guide Library](./guides/README.md)
+- [Why This Exists](./guides/why-this-exists.md)
 
 ## Starter Guides
 
