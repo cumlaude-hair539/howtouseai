@@ -505,6 +505,12 @@ Please:
 6. show me the final diff before any commit.
 ```
 
+## If the Repo Is Already Confusing or Broken
+
+Continue here:
+
+- [Troubleshooting: What to Do When Something Breaks](./troubleshooting.md)
+
 ## Further Reading
 
 - [GitHub CLI quickstart](https://docs.github.com/en/github-cli/github-cli/quickstart)

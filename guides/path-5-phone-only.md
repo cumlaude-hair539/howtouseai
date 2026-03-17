@@ -254,4 +254,4 @@ Once this path works, move to:
 
 - [First Project: Start Small and Finish Something](./first-project.md)
 - [Git Safety: How to Avoid Losing Work](./git-safety.md)
-- troubleshooting
+- [Troubleshooting: What to Do When Something Breaks](./troubleshooting.md)

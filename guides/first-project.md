@@ -469,6 +469,10 @@ If you want to work more safely before bigger changes, continue here:
 
 - [Git Safety: How to Avoid Losing Work](./git-safety.md)
 
+If something breaks while you are learning, continue here:
+
+- [Troubleshooting: What to Do When Something Breaks](./troubleshooting.md)
+
 ## Recommended Project Progression
 
 A good progression looks like this:

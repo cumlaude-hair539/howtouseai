@@ -48,6 +48,7 @@ If you want a practical starting point, begin here:
 - [Path 5: I Only Have a Phone](./guides/path-5-phone-only.md)
 - [First Project: Start Small and Finish Something](./guides/first-project.md)
 - [Git Safety: How to Avoid Losing Work](./guides/git-safety.md)
+- [Troubleshooting: What to Do When Something Breaks](./guides/troubleshooting.md)
 - [How to Get a Domain and Connect It Through Cloudflare](./guides/how-to-get-domain.md)
 
 ## Current Home
