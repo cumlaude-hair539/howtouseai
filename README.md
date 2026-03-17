@@ -49,10 +49,12 @@ If you want a practical starting point, begin here:
 - [First Project: Start Small and Finish Something](./guides/first-project.md)
 - [Prompting Basics: How to Ask Your AI Coding Agent Correctly](./guides/prompting-basics.md)
 - [Workflow Rules: How to Work With an AI Coding Agent Without Creating Chaos](./guides/workflow-rules.md)
+- [AI Agent Rules: How Your Coding Agent Should Behave Inside Your Repository](./guides/ai-agent-rules.md)
 - [Git Safety: How to Avoid Losing Work](./guides/git-safety.md)
 - [Troubleshooting: What to Do When Something Breaks](./guides/troubleshooting.md)
 - [How to Get a Domain and Connect It Through Cloudflare](./guides/how-to-get-domain.md)
 - [Deploy Basics: Real Self-Hosting From Your Own Server](./guides/deploy-basics.md)
+- [Useful Tools for AI: What to Install on a Server So an AI Agent Can Work Properly](./guides/useful-tools-for-ai.md)
 
 ## Current Home
 

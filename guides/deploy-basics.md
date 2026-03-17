@@ -571,3 +571,7 @@ That is a real deployment mindset.
 - [nginx Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
 - [Cloudflare Proxy status](https://developers.cloudflare.com/dns/proxy-status/)
 - [GitHub CLI quickstart](https://docs.github.com/github-cli/github-cli/quickstart)
+
+If you want the practical server tool stack behind this deployment model, continue here:
+
+- [Useful Tools for AI: What to Install on a Server So an AI Agent Can Work Properly](./useful-tools-for-ai.md)

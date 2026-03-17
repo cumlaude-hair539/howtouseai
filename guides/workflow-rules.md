@@ -496,3 +496,7 @@ If you follow these rules, AI coding becomes much more stable.
 - [Slash commands in Codex CLI](https://developers.openai.com/codex/cli/slash-commands)
 - [Agent approvals & security](https://developers.openai.com/codex/agent-approvals-security)
 - [Custom instructions with AGENTS.md](https://developers.openai.com/codex/guides/agents-md)
+
+If you want the repo-facing version of these workflow ideas, continue here:
+
+- [AI Agent Rules: How Your Coding Agent Should Behave Inside Your Repository](./ai-agent-rules.md)

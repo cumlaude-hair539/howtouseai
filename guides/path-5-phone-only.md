@@ -256,3 +256,4 @@ Once this path works, move to:
 - [Git Safety: How to Avoid Losing Work](./git-safety.md)
 - [Troubleshooting: What to Do When Something Breaks](./troubleshooting.md)
 - [Deploy Basics: Real Self-Hosting From Your Own Server](./deploy-basics.md)
+- [Useful Tools for AI: What to Install on a Server So an AI Agent Can Work Properly](./useful-tools-for-ai.md)
