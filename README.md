@@ -35,6 +35,17 @@ Topics include:
 - how AI agents can help with research, writing, coding, and automation
 - simple workflows that save time and reduce friction
 - guidance for people with different levels of experience
+- self-hosting and practical deployment
+- RAG and retrieval workflows
+- embeddings and vector search
+- recommendation systems
+- stack selection and tradeoffs
+
+## Guide Library
+
+If you want the structured guide index for the whole repository, start here:
+
+- [Guide Library](./guides/README.md)
 
 ## Starter Guides
 
