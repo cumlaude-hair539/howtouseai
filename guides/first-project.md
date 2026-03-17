@@ -473,6 +473,14 @@ If something breaks while you are learning, continue here:
 
 - [Troubleshooting: What to Do When Something Breaks](./troubleshooting.md)
 
+If you want to get better results from the agent itself, continue here:
+
+- [Prompting Basics: How to Ask Your AI Coding Agent Correctly](./prompting-basics.md)
+
+If you want a cleaner daily process for working with the agent, continue here:
+
+- [Workflow Rules: How to Work With an AI Coding Agent Without Creating Chaos](./workflow-rules.md)
+
 ## Recommended Project Progression
 
 A good progression looks like this:

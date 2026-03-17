@@ -262,3 +262,4 @@ Once this path works, the next useful topics are:
 - [First Project: Start Small and Finish Something](./first-project.md)
 - [Git Safety: How to Avoid Losing Work](./git-safety.md)
 - [Troubleshooting: What to Do When Something Breaks](./troubleshooting.md)
+- [Deploy Basics: Real Self-Hosting From Your Own Server](./deploy-basics.md)

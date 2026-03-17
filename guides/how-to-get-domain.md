@@ -254,3 +254,7 @@ If you want the simplest path, think in this order:
 2. Put DNS under Cloudflare.
 3. Decide whether the site points to a server IP or a Tunnel.
 4. Keep development and production separate when possible.
+
+If you want the next step after domain and DNS, continue here:
+
+- [Deploy Basics: Real Self-Hosting From Your Own Server](./deploy-basics.md)
